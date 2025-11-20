@@ -6,7 +6,7 @@
             showNotification('Redirecting to Google login...', 'info');
             
             // Redirect ke Google OAuth
-            const redirectUri = encodeURIComponent('https://bloxaryn.github.io/MinePack');
+            const redirectUri = encodeURIComponent('https://bloxaryn.github.io/MinePack/');
             const scope = encodeURIComponent('profile email');
             const authUrl = `https://accounts.google.com/o/oauth2/v2/auth?client_id=${GOOGLE_CLIENT_ID}&redirect_uri=${redirectUri}&response_type=token&scope=${scope}`;
             
