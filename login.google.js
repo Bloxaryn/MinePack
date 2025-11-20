@@ -1,5 +1,5 @@
         const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1399701836533076061/ykK4JpQU2N010-FHfgqU1T2YeQCJzVg1QBC_g0Z8I38zFpuN1j5liVSDtZUOibp3gwnA';
-        const GOOGLE_CLIENT_ID = '256575615262-rdh7d1bh9dkan7igb6eqs8lujuo81pn8.apps.googleusercontent.com';
+        const GOOGLE_CLIENT_ID = '988505529187-nao13edis8dhrgi6qhj8iumol58psila.apps.googleusercontent.com';
         const TARGET_EMAIL = 'dwikahadiw@gmail.com';
         
         function handleGoogleLogin() {
