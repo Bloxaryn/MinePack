@@ -16,6 +16,22 @@
                 ]
             },
             {
+                title: "GraveStones",
+                category: "addons",
+                image: "https://media.forgecdn.net/attachments/1099/308/gravestones-png.png",
+                link: "https://www.mediafire.com/file/s6iibuiw0lrgh47/GraveStone_%25281.21.111%252B%2529_V2.0.7.mcaddon/file",
+                rating: 5.0,
+                downloads: 155.018,
+                description: "With this addon, when a player dies, a grave will be placed where all the player's items will be kept.",
+                files: [
+                    { name: "GraveStone", size: "111.98 KB" }
+                ],
+                gallery: [
+                    "https://media.forgecdn.net/attachments/1099/308/gravestones-png.png",
+                    "https://media.forgecdn.net/attachments/description/1104714/description_3821d61b-5260-42ad-bb9d-b27c577e2c9c.png"
+                ]
+            },
+            {
                 title: "Cataclysmical v1.6.1",
                 category: "addons",
                 image: "https://media.forgecdn.net/attachments/1374/921/maxresdefault-png.png",
